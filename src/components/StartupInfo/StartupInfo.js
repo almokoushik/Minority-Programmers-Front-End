@@ -58,14 +58,14 @@ const StartupInfo = (props) => {
                             <IconButton aria-label="delete" onClick={() => statePushback()} className={classes.margin} size="medium" className="bg bg-light mx-3">
                                 <ArrowBackIcon fontSize="inherit" />
                             </IconButton>
-                            <img src={mangoimg} alt="" />
-                            <h5 style={{ float: 'right' }} className="pt-3">{startup[0].title}</h5>
+                            <img src={mangoimg} className="w-25"/>
+                            <h6 style={{ float: 'right' }} className="pt-3">{startup[0].title}</h6>
                         </div>
 
                         <div className="col-md-3 col-sm-6 my-3">
                             <div className=" d-flex justify-content-center">
                                 <h6>Fund Raise</h6>
-                                <p className="text-end ms-4">{ }% Complete</p>
+                            <p className="text-end ms-4">{Math.floor(100*startup[0].fund/startup[0].target)}% Complete</p>
                             </div>
                             <h5>${startup[0].fund}/${startup[0].target}</h5>
                         </div>

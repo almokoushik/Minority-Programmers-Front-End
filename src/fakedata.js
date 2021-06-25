@@ -5,10 +5,10 @@ const startsups=[
         title:"MangoSwap",
         text:"The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed:50,
-        target:"400000",
-        fund:"200000",
+        target:"400001",
+        fund:"200001",
         founded: "17th May, 2015",
-        website: "mangoswap.com",
+        website: "mangoswap1.com",
         socials: {
             twitter: "https://www.twitter.com",
             linkedin: "https://www.linkedin.com",
@@ -43,11 +43,11 @@ const startsups=[
     {
         id: 2,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap2",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed:50,
-        target: "400000",
-        fund: "200000",
+        target: "400002",
+        fund: "200002",
         founded: "17th May, 2015",
         website: "mangoswap.com",
         socials: {
@@ -84,11 +84,11 @@ const startsups=[
     {
         id: 3,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap3",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
-        target: "400000",
-        fund: "200000",
+        target: "400003",
+        fund: "200003",
         founded: "17th May, 2015",
         website: "mangoswap.com",
         socials: {
@@ -125,11 +125,11 @@ const startsups=[
     {
         id: 4,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap4",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
-        target: "400000",
-        fund: "200000",
+        target: "400004",
+        fund: "200004",
         founded: "17th May, 2015",
         website: "mangoswap.com",
         socials: {
@@ -167,11 +167,11 @@ const startsups=[
     {
         id: 5,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap5",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
-        target: "400000",
-        fund: "200000",
+        target: "400005",
+        fund: "200005",
         founded: "17th May, 2015",
         website: "mangoswap.com",
         socials: {
@@ -208,11 +208,11 @@ const startsups=[
     , {
         id: 6,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap6",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
-        target: "400000",
-        fund: "200000",
+        target: "400006",
+        fund: "200006",
         founded: "17th May, 2015",
         website: "mangoswap.com",
         socials: {
@@ -249,11 +249,11 @@ const startsups=[
     , {
         id: 7,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap7",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
-        target: "400000",
-        fund: "200000",
+        target: "400007",
+        fund: "200007",
         founded: "17th May, 2015",
         website: "mangoswap.com",
         socials: {
@@ -290,11 +290,11 @@ const startsups=[
     , {
         id: 8,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap8",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
-        target: "400000",
-        fund: "200000",
+        target: "400008",
+        fund: "200008",
         founded:"17th May, 2015",
         website:"mangoswap.com",
         socials:{
@@ -331,11 +331,11 @@ const startsups=[
     , {
         id: 9,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap9",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
-        target: "400000",
-        fund: "200000",
+        target: "400009",
+        fund: "200009",
         founded: "17th May, 2015",
         website: "mangoswap.com",
         socials: {
@@ -372,11 +372,11 @@ const startsups=[
     , {
         id: 10,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap10",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
-        target: "400000",
-        fund: "200000",
+        target: "400010",
+        fund: "200010",
         founded: "17th May, 2015",
         website: "mangoswap.com",
         socials: {
@@ -413,7 +413,7 @@ const startsups=[
     , {
         id: 11,
         img: true,
-        title: "MangoSwap",
+        title: "MangoSwap11",
         text: "The mango swap coin is the future for crypto currency, It will allow user share and transact over defi networks with less fees.",
         completed: 50,
         target: "400000",
